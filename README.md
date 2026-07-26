@@ -1,7 +1,7 @@
-﻿## Titanic Survival Prediction 🚢 (Experimental)
-- This is an experimental project — this repo explores an approach to predicting Titanic survival that intentionally includes a target. For the "proper"/clean version of this model, see: [add link here]
+﻿# Titanic Survival Prediction 🚢 (Experimental)
+- This is an experimental project — this repo explores an approach to predicting Titanic survival that intentionally includes a target. For the "proper"/clean version of this model, see model.py
 
-# Handled missing value
+# Handled missing value🤹🏻
 - Age → filled with mean
 - Embarked → filled with mode
 - Extracted deck from Cabin, and filled missing values with "U" (unknown)
